@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="Gen.csproj" />
+  <Project Path="Gen/Gen.csproj" />
   <Project Path="Main.csproj" />
 </Solution>

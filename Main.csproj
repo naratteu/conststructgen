@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="./Gen.csproj" OutputItemType="Analyzer" ReferenceOutputAssembly="false" />
+    <ProjectReference Include="Gen/Gen.csproj" OutputItemType="Analyzer" ReferenceOutputAssembly="false" />
     <Compile Remove="**\*.gen.cs" />
   </ItemGroup>
 </Project>
